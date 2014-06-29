@@ -2,5 +2,5 @@ tests - title
 testItRemovesDoubleQuotesFromTitle
 
 	self
-		assert: 'my quoted title'
-		equals: (self postWithContents: self postContentWithDoubleQuotes) title
+		assert: (self postWithContents: self postContentWithDoubleQuotes) title
+		equals: 'my quoted title'

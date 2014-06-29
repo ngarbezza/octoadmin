@@ -4,6 +4,10 @@
 	"instance" : {
 		"postContentWithDoubleQuotes" : "NahuelGarbezza 6/29/2014 15:10",
 		"postContentWithExtraSpacesInTheTitle" : "NahuelGarbezza 6/29/2014 15:12",
+		"postContentWithSomeDate" : "NahuelGarbezza 6/29/2014 17:13",
+		"postContentWithSomeDateAndTime" : "NahuelGarbezza 6/29/2014 17:17",
 		"postWithContents:" : "NahuelGarbezza 6/29/2014 15:09",
-		"testItRemovesDoubleQuotesFromTitle" : "NahuelGarbezza 6/29/2014 15:10",
-		"testItTrimmesTheTitle" : "NahuelGarbezza 6/29/2014 15:11" } }
+		"testItParsesTheDateAndTimeInISOFormat" : "NahuelGarbezza 6/29/2014 17:17",
+		"testItParsesTheDateInISOFormat" : "NahuelGarbezza 6/29/2014 17:18",
+		"testItRemovesDoubleQuotesFromTitle" : "NahuelGarbezza 6/29/2014 17:14",
+		"testItTrimmesTheTitle" : "NahuelGarbezza 6/29/2014 17:15" } }
