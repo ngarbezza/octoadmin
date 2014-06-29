@@ -1,0 +1,15 @@
+{
+	"category" : "OctoAdmin-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootDirectory",
+		"posts" ],
+	"name" : "OctoAdminBlog",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

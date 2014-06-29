@@ -1,0 +1,14 @@
+{
+	"category" : "OctoAdmin-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contents" ],
+	"name" : "OctoAdminTestFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

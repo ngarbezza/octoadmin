@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"postContentWithDoubleQuotes" : "NahuelGarbezza 6/29/2014 15:10",
+		"postContentWithExtraSpacesInTheTitle" : "NahuelGarbezza 6/29/2014 15:12",
+		"postWithContents:" : "NahuelGarbezza 6/29/2014 15:09",
+		"testItRemovesDoubleQuotesFromTitle" : "NahuelGarbezza 6/29/2014 15:10",
+		"testItTrimmesTheTitle" : "NahuelGarbezza 6/29/2014 15:11" } }
