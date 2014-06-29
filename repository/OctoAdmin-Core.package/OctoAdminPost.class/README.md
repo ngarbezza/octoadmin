@@ -1,0 +1,1 @@
+I represent a post in Octopress, I can answer post information such as the title, date, and content. I grab those data from the post's file, so I should be created with a valid one.

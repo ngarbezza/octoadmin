@@ -4,10 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "NahuelGarbezza 6/29/2014 17:31",
 	"instvars" : [
 		"rootDirectory",
-		"posts" ],
+		"posts",
+		"configuration",
+		"parser" ],
 	"name" : "OctoAdminBlog",
 	"pools" : [
 		 ],

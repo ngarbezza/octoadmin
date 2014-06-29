@@ -1,4 +1,5 @@
 initialization
-initializeLocation: aDirectoryName
+initializeLocation: aDirectory
 
-	rootDirectory := aDirectoryName asFileReference
+	rootDirectory := aDirectory.
+	parser := OctoAdminParser new

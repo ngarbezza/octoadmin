@@ -1,0 +1,1 @@
+I represent an Octopress blog. I should be created with the root path of the blog.

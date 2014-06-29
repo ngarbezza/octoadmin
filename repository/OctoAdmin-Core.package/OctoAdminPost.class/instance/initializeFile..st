@@ -1,4 +1,5 @@
 initialization
 initializeFile: aFile
 
-	file := aFile
+	file := aFile.
+	parser := OctoAdminParser new

@@ -2,6 +2,14 @@
 	"class" : {
 		"locatedAt:" : "NahuelGarbezza 6/29/2014 00:40" },
 	"instance" : {
+		"author" : "NahuelGarbezza 6/29/2014 18:39",
+		"configuration" : "NahuelGarbezza 6/29/2014 18:11",
+		"configurationAt:" : "NahuelGarbezza 6/29/2014 18:19",
+		"configurationFileName" : "NahuelGarbezza 6/29/2014 18:38",
 		"fetchPosts" : "NahuelGarbezza 6/29/2014 00:52",
-		"initializeLocation:" : "NahuelGarbezza 6/29/2014 00:49",
-		"posts" : "NahuelGarbezza 6/29/2014 00:51" } }
+		"initializeLocation:" : "NahuelGarbezza 6/29/2014 18:38",
+		"parseConfiguration" : "NahuelGarbezza 6/29/2014 18:38",
+		"posts" : "NahuelGarbezza 6/29/2014 00:51",
+		"subtitle" : "NahuelGarbezza 6/29/2014 18:19",
+		"title" : "NahuelGarbezza 6/29/2014 18:19",
+		"url" : "NahuelGarbezza 6/29/2014 18:19" } }

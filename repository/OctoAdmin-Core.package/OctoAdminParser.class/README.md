@@ -1,0 +1,1 @@
+I parse data from an Octopress blog such as YAML configurations or post contents.

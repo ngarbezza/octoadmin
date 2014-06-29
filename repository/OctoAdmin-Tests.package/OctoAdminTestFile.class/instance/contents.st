@@ -1,0 +1,4 @@
+file protocol
+contents
+
+	^ contents

@@ -4,12 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "NahuelGarbezza 6/29/2014 17:27",
+	"commentStamp" : "NahuelGarbezza 6/29/2014 18:40",
 	"instvars" : [
-		"file",
-		"header",
-		"parser" ],
-	"name" : "OctoAdminPost",
+		 ],
+	"name" : "OctoAdminParser",
 	"pools" : [
 		 ],
 	"super" : "Object",
